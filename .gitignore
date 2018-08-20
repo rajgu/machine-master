@@ -1,0 +1,8 @@
+**/*.db
+**/*.db-journal
+**/*.log
+**/*.pyc
+**/*.nfs*
+config.ini
+logs-mo/*
+
